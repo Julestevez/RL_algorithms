@@ -1,0 +1,3 @@
+es una réplica del código del curso de Huggingface https://huggingface.co/learn/deep-rl-course/unit2/hands-on?fw=pt
+
+En esta ocasión, FrozenLake mediante Q-learning
