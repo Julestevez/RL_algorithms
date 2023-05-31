@@ -9,10 +9,10 @@ https://github.com/Julestevez/RL_algorithms/assets/52918745/9995d661-3bdc-418d-a
 
 
 ## 2- DQN-Cartpole-v1
-<img src="https://github.com/Julestevez/RL_algorithms/assets/52918745/f3c94117-8a95-4656-b6b9-1fc6441236b9 width="500">
+https://github.com/Julestevez/RL_algorithms/assets/52918745/f3c94117-8a95-4656-b6b9-1fc6441236b9
 
 
-## Proximal Policy Optimization
+## 5- Proximal Policy Optimization
 https://github.com/Julestevez/RL_algorithms/assets/52918745/64f034fc-f1c1-4406-bdff-113f8269ae87
 
 
