@@ -7,3 +7,8 @@ This is the code from [HuggingFace Deep Learning course](https://huggingface.co/
 
 https://github.com/Julestevez/RL_algorithms/assets/52918745/9995d661-3bdc-418d-a363-a0d6d34a6941
 
+
+## Reciprocal Velocity Obstacle Avoidance for Multi-Agent Systems
+
+https://github.com/Julestevez/RL_algorithms/assets/52918745/d5a2f761-e9d8-4cce-ada7-3ecc02123cff
+
