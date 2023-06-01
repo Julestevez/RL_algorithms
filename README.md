@@ -5,19 +5,19 @@ In this folder, I will add different examples of basic RL algorithms (Q-learning
 ## 1- Q_learning-FrozenLake-v1
 This is the code from [HuggingFace Deep Learning course](https://huggingface.co/learn/deep-rl-course/unit2/hands-on?fw=pt), to learn Q-learning with the FrozenLake-v1 gym environment.
 
-https://github.com/Julestevez/RL_algorithms/assets/52918745/9995d661-3bdc-418d-a363-a0d6d34a6941
+<img src="https://github.com/Julestevez/RL_algorithms/blob/main/1-%20Q-learning%20FrozenLake-v1/Q-learning-FrozenLake.gif" width="350"></br></br></br></br>
 
 
 ## 2- DQN-Cartpole-v1
-https://github.com/Julestevez/RL_algorithms/assets/52918745/f3c94117-8a95-4656-b6b9-1fc6441236b9
+<img src="https://github.com/Julestevez/RL_algorithms/blob/main/2-%20DQN-Cartpole-v1/DQN-CartPole-v1.gif" width="350"></br></br></br></br>
 
 
 ## 5- Proximal Policy Optimization LunarLander-v2
-https://github.com/Julestevez/RL_algorithms/assets/52918745/64f034fc-f1c1-4406-bdff-113f8269ae87
+<img src="https://github.com/Julestevez/RL_algorithms/blob/main/5-%20PPO_LunarLander_v2/PPO_LunarLander_v2.gif" width="350"></br></br></br></br>
 
 
 ## Reciprocal Velocity Obstacle Avoidance for Multi-Agent Systems
-https://github.com/Julestevez/RL_algorithms/assets/52918745/d5a2f761-e9d8-4cce-ada7-3ecc02123cff 
+<img src="https://github.com/Julestevez/RL_algorithms/blob/main/RVO_Py_MAS-master/Multi-robot-RVO.gif" width="350"></br></br></br></br>
 
 
 
