@@ -12,6 +12,9 @@ This is the code from [HuggingFace Deep Learning course](https://huggingface.co/
 <img src="https://github.com/Julestevez/RL_algorithms/blob/main/2-%20DQN-Cartpole-v1/DQN-CartPole-v1.gif" width="350"></br></br></br></br>
 
 
+## 4- Policy Gradient Mountain_Car
+<img src="https://github.com/Julestevez/RL_algorithms/blob/main/4-%20Policy%20Gradient%20Mountain_Car/PG_Mountain_Car.gif" width="350"></br></br></br></br>
+
 ## 5- Proximal Policy Optimization LunarLander-v2
 <img src="https://github.com/Julestevez/RL_algorithms/blob/main/5-%20PPO_LunarLander_v2/PPO_LunarLander_v2.gif" width="350"></br></br></br></br>
 
